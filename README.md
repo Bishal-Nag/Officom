@@ -1,6 +1,7 @@
 Officom – Employee Management System
 
 
+
 📌 Short Description:
 
   Officom is a Python-based Employee Management System with a graphical user interface (GUI). It helps organizations efficiently manage employee information, including personal details, job roles, salaries, and contact information. The system features a secure login mechanism and provides full CRUD (Create, Read, Update, Delete) functionality for employee records.
