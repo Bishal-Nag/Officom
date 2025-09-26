@@ -32,13 +32,13 @@ Employee records stored in a SQLite database, managed through Python scripts.
 
 1. Login Page:
    
-   ➡ Secure login with username & password
-   ➡ Ensures only authorized users can access employee data
+   1. Secure login with username & password
+   2. Ensures only authorized users can access employee data
 
 2. Employee Management Page:
    
-   ➡ Add, Update, Delete, and Search employees
-   ➡ View all employee details in a structured table
-   ➡ Clean interface for smooth user experience
-   ➡ 🖥 User-Friendly Desktop GUI
+   1. Add, Update, Delete, and Search employees
+   2. View all employee details in a structured table
+   3. Clean interface for smooth user experience
+   4. 🖥 User-Friendly Desktop GUI
 
